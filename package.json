@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/grossiwm/InBoxSmartContract/issues"
   },
-  "homepage": "https://github.com/grossiwm/InBoxSmartContract#readme"
+  "homepage": "https://github.com/grossiwm/InBoxSmartContract#readme",
+  "dependencies": {
+    "solc": "^0.4.25"
+  }
 }
